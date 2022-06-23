@@ -41,7 +41,7 @@ _Desarrolladora de software, base en La Pedrera, Uruguay_ <br>
 
 **Testing Automatizado** @ [Crowdar Academy](https://crowdar.academy/) _( Sep 2020 - Nov 2020)_ <br>
 
-**Ingeniería en Sistemas**  @ [UTN Santa Fe](https://www.frsf.utn.edu.ar/) _( Mar 2017 - Dec 2020)_ <br>
+**Ingeniería en Sistemas**  @ [UTN Santa Fe](https://www.frsf.utn.edu.ar/) _( Mar 2017 - Dic 2020)_ <br>
 
 **Autodidacta**: Utilizando diferentes recursos y plataformas para incorporar conociemientos de programación.
 <br><br>
