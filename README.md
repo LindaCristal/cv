@@ -4,7 +4,7 @@ _Desarrolladora de software, base en La Pedrera, Uruguay_ <br>
 
 [Email](mailto:lindacristal.info@gmail.com) / [LinkedIn](https://www.linkedin.com/in/linda-cristal/) / [GitHub](https://github.com/lindacristal/)
 
-## 👩🏼‍💻 Experience
+## 👩🏼‍💻 Experiencia
 
 **Analista Desarrolladora de Software** @ [Mercado Libre](https://www.mercadolibre.com.ar/) _(Dic 2020 - Dic 2021)_ <br>
   Colaboradora del equipo de Finance and Billing Information (FBI).
